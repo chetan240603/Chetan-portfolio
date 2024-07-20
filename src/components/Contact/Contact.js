@@ -46,7 +46,7 @@ function Contact() {
               <a
                 className="btn PrimaryBtn btn-shadow"
                 href="chetanck2003@gmail.com"
-                target="_blank"
+                target="https://mail.google.com/"
                 rel="noopener noreferrer"
               >
                 Send Email
